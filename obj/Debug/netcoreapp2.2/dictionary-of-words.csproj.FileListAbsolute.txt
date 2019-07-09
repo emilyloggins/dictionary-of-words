@@ -1,0 +1,11 @@
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.deps.json
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.runtimeconfig.json
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.runtimeconfig.dev.json
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.dll
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/bin/Debug/netcoreapp2.2/dictionary-of-words.pdb
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.csprojAssemblyReference.cache
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.csproj.CoreCompileInputs.cache
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.AssemblyInfoInputs.cache
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.AssemblyInfo.cs
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.dll
+/Users/emilyloggins/workspace/backend-1/exercises/dictionary-of-words/obj/Debug/netcoreapp2.2/dictionary-of-words.pdb
